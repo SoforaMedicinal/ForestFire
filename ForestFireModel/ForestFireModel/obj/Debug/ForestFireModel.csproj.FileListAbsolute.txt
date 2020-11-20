@@ -1,0 +1,31 @@
+E:\Study\Конспекты\3 курс\2 семестр\Базы данных (Горб Е.В.)\ДЗ\ForestFireModel\ForestFireModel\bin\Debug\ForestFireModel.exe.config
+E:\Study\Конспекты\3 курс\2 семестр\Базы данных (Горб Е.В.)\ДЗ\ForestFireModel\ForestFireModel\bin\Debug\ForestFireModel.exe
+E:\Study\Конспекты\3 курс\2 семестр\Базы данных (Горб Е.В.)\ДЗ\ForestFireModel\ForestFireModel\bin\Debug\ForestFireModel.pdb
+E:\Study\Конспекты\3 курс\2 семестр\Базы данных (Горб Е.В.)\ДЗ\ForestFireModel\ForestFireModel\obj\Debug\ForestFireModel.csprojAssemblyReference.cache
+E:\Study\Конспекты\3 курс\2 семестр\Базы данных (Горб Е.В.)\ДЗ\ForestFireModel\ForestFireModel\obj\Debug\ForestFireModel.csproj.CoreCompileInputs.cache
+E:\Study\Конспекты\3 курс\2 семестр\Базы данных (Горб Е.В.)\ДЗ\ForestFireModel\ForestFireModel\obj\Debug\ForestFireModel.exe
+E:\Study\Конспекты\3 курс\2 семестр\Базы данных (Горб Е.В.)\ДЗ\ForestFireModel\ForestFireModel\obj\Debug\ForestFireModel.pdb
+G:\Study\Конспекты\3 курс\2 семестр\Базы данных (Горб Е.А.) +;-\ДЗ (12.02.2020)\ForestFireModel\ForestFireModel\bin\Debug\ForestFireModel.exe.config
+G:\Study\Конспекты\3 курс\2 семестр\Базы данных (Горб Е.А.) +;-\ДЗ (12.02.2020)\ForestFireModel\ForestFireModel\bin\Debug\ForestFireModel.exe
+G:\Study\Конспекты\3 курс\2 семестр\Базы данных (Горб Е.А.) +;-\ДЗ (12.02.2020)\ForestFireModel\ForestFireModel\bin\Debug\ForestFireModel.pdb
+G:\Study\Конспекты\3 курс\2 семестр\Базы данных (Горб Е.А.) +;-\ДЗ (12.02.2020)\ForestFireModel\ForestFireModel\obj\Debug\ForestFireModel.csprojAssemblyReference.cache
+G:\Study\Конспекты\3 курс\2 семестр\Базы данных (Горб Е.А.) +;-\ДЗ (12.02.2020)\ForestFireModel\ForestFireModel\obj\Debug\ForestFireModel.csproj.CoreCompileInputs.cache
+G:\Study\Конспекты\3 курс\2 семестр\Базы данных (Горб Е.А.) +;-\ДЗ (12.02.2020)\ForestFireModel\ForestFireModel\obj\Debug\ForestFireModel.exe
+G:\Study\Конспекты\3 курс\2 семестр\Базы данных (Горб Е.А.) +;-\ДЗ (12.02.2020)\ForestFireModel\ForestFireModel\obj\Debug\ForestFireModel.pdb
+G:\Study\Конспекты\3 курс\2 семестр\Базы данных (Горб Е.А.) +;-\ДЗ (12.02.2020)\ForestFireModel\ForestFireModel\obj\Debug\ForestFireModel.sourcelink.json
+C:\Users\Kerman\Desktop\DatabaseAndPractice\ForestFireModel\ForestFireModel\bin\Debug\ForestFireModel.exe.config
+C:\Users\Kerman\Desktop\DatabaseAndPractice\ForestFireModel\ForestFireModel\bin\Debug\ForestFireModel.exe
+C:\Users\Kerman\Desktop\DatabaseAndPractice\ForestFireModel\ForestFireModel\bin\Debug\ForestFireModel.pdb
+C:\Users\Kerman\Desktop\DatabaseAndPractice\ForestFireModel\ForestFireModel\obj\Debug\ForestFireModel.csprojAssemblyReference.cache
+C:\Users\Kerman\Desktop\DatabaseAndPractice\ForestFireModel\ForestFireModel\obj\Debug\ForestFireModel.csproj.CoreCompileInputs.cache
+C:\Users\Kerman\Desktop\DatabaseAndPractice\ForestFireModel\ForestFireModel\obj\Debug\ForestFireModel.sourcelink.json
+C:\Users\Kerman\Desktop\DatabaseAndPractice\ForestFireModel\ForestFireModel\obj\Debug\ForestFireModel.exe
+C:\Users\Kerman\Desktop\DatabaseAndPractice\ForestFireModel\ForestFireModel\obj\Debug\ForestFireModel.pdb
+D:\Practis\ForestFireModel\ForestFireModel\bin\Debug\ForestFireModel.exe.config
+D:\Practis\ForestFireModel\ForestFireModel\bin\Debug\ForestFireModel.exe
+D:\Practis\ForestFireModel\ForestFireModel\bin\Debug\ForestFireModel.pdb
+D:\Practis\ForestFireModel\ForestFireModel\obj\Debug\ForestFireModel.csprojAssemblyReference.cache
+D:\Practis\ForestFireModel\ForestFireModel\obj\Debug\ForestFireModel.csproj.CoreCompileInputs.cache
+D:\Practis\ForestFireModel\ForestFireModel\obj\Debug\ForestFireModel.sourcelink.json
+D:\Practis\ForestFireModel\ForestFireModel\obj\Debug\ForestFireModel.exe
+D:\Practis\ForestFireModel\ForestFireModel\obj\Debug\ForestFireModel.pdb
